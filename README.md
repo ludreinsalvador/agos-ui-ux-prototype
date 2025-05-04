@@ -1,4 +1,4 @@
-
+![Mockup](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-mockup.png)
 # aGOs: Be in the Know, Before the Flow  
 
 ---
@@ -8,8 +8,6 @@
 🔗 **View the High-Fidelity Prototype:** [![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-blue?logo=figma)](https://www.figma.com/proto/aRUxnpHyrB2a8YMHXeVy00/-Byte4Byte--Workspace?node-id=4126-2762&p=f&t=i6abxhs6jA9mE0G2-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A3&starting-point-node-id=4126%3A2762)
 
 ---
-### 🖼️ aGOs Mockup  
-![Mockup](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-mockup.png)
 
 ### 🖼️ Prototype Key Screens  
 ![Prototype Key Screens](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-ui-prototype.png)
