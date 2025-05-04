@@ -1,10 +1,10 @@
-![Mockup](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-mockup.png)
-# aGOs: Be in the Know, Before the Flow  
+# aGOs: Be in the Know, Before the Flow 
+![Mockup](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-mockup.png) 
 
 **[Byte4Byte] Hackathon Collaborators:**
-1. Gillianne Lim
-2. Arkin David
-3. Danielle Gaspar
+- Gillianne Lim
+- Arkin David
+- Danielle Gaspar
    
 ---
 
