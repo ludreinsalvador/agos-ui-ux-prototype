@@ -1,6 +1,8 @@
 # aGOs: Be in the Know, Before the Flow 
 ![Mockup](https://github.com/ludreinsalvador/agos-ui-ux-prototype/blob/main/agos-mockup.png) 
 
+**Hackfest 2025: Horizon** | Ateneo De Manila University
+
 **[Byte4Byte] Hackathon Collaborators:**
 - Gillianne Lim
 - Arkin David
